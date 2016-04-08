@@ -1,0 +1,2 @@
+module MonstercrabHelper
+end
